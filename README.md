@@ -1,1 +1,1 @@
-# btc_5m_paper_bot.py
+BTC 5-Minute Paper Trading Bot (Polymarket)
